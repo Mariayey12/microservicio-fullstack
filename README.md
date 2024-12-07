@@ -24,6 +24,7 @@
 # Estructura de carpetas del  Proyecto 📁
 
 ![Estructura de carpetas](https://github.com/user-attachments/assets/58a7e8c2-8c06-4489-8df4-ef1f4d653531)
+![Estructura de carpetas](https://github.com/Mariayey12/microservicio-fullstack/blob/74d4bf39d9d80fab50d9e54214c7311e65f18f18/Estructura%20de%20carpetas.png)
 
 # Requisitos Previos ⚙️
 
