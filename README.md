@@ -142,7 +142,7 @@ Abre un pull request explicando los cambios realizados.
 # 🎨 Capturas de Pantalla:
 - Backend mostrando usuarios en DB PGagmind:
 
-![BDPgadmin](https://github.com/user-attachments/assets/cf38a106-70fb-4eab-a79a-18b9e85efd7c)
+- ![BDPgadmin](https://github.com/user-attachments/assets/cf38a106-70fb-4eab-a79a-18b9e85efd7c)
 
 - Frontend mostrando usuarios:
   
