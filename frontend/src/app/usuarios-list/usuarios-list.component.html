@@ -1,0 +1,24 @@
+<!-- Contenido de la lista de usuarios -->
+
+<h1>Lista de Usuarios</h1>
+
+<!-- Mostrar el formulario solo si hay usuarios -->
+<form *ngIf="usuarios.length > 0">
+  <div *ngFor="let usuario of usuarios">
+    <div class="form-row">
+      <!-- Mostrar datos del usuario en el formulario -->
+      <input type="text" [value]="usuario.nombre" readonly class="form-control" />
+      <input type="email" [value]="usuario.correo" readonly class="form-control" />
+      <input type="number" [value]="usuario.edad" readonly class="form-control" />
+    </div>
+  </div>
+</form>
+
+<!-- Mostrar mensaje si no hay usuarios -->
+<p *ngIf="usuarios.length === 0">Cargando usuarios...</p>
+
+<!-- Si no hay usuarios, mostrar el mensaje 'No hay usuarios disponibles' -->
+<ng-template #noUsuarios>
+  <p>No hay usuarios disponibles.</p>
+</ng-template>
+

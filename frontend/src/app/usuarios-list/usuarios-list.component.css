@@ -1,0 +1,126 @@
+/* Contenedor principal */
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Estilo para el formulario */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para los inputs dentro del formulario */
+.form-row {
+  margin: 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+input {
+  margin: 5px 0;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  width: 300px;
+}
+
+input[readonly] {
+  background-color: #e9ecef;
+  cursor: not-allowed;
+}
+
+/* Mensaje cuando no hay usuarios */
+p {
+  text-align: center;
+  font-size: 18px;
+  color: #888;
+  font-weight: 500;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f4f4;
+  height: 100vh;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-side {
+  margin-bottom: 20px;
+}
+
+.angular-logo {
+  width: 100px;
+  height: auto;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #333;
+  text-align: center;
+}
+/* Contenedor general */
+.form-row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.5rem;
+}
+
+/* Estilo para los inputs */
+input.form-control {
+  padding: 10px 15px;
+  font-size: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+/* Estilo cuando el campo está enfocado */
+input.form-control:focus {
+  border-color: #4CAF50; /* Verde */
+  background-color: #eafaf1; /* Fondo suave */
+  outline: none;
+}
+
+/* Estilo para los campos de solo lectura */
+input.form-control[readonly] {
+  background-color: #f0f0f0;
+  color: #888;
+  cursor: not-allowed;
+}
+
+/* Estilo de los campos con texto (placeholder) */
+input.form-control::placeholder {
+  color: #aaa;
+  font-style: italic;
+}
+
+/* Estilo para un contenedor de formulario con espacio */
+.form-row input {
+  margin-bottom: 10px;
+}
+
+/* Opcional: añadir un efecto de sombra sutil */
+input.form-control:focus {
+  box-shadow: 0 0 8px rgba(76, 175, 80, 0.6);
+}
