@@ -23,7 +23,6 @@
 
 # Estructura de carpetas del  Proyecto 📁
 
-![Estructura de carpetas](https://github.com/user-attachments/assets/58a7e8c2-8c06-4489-8df4-ef1f4d653531)
 ![Estructura de carpetas](https://github.com/Mariayey12/microservicio-fullstack/blob/74d4bf39d9d80fab50d9e54214c7311e65f18f18/Estructura%20de%20carpetas.png)
 
 # Requisitos Previos ⚙️
@@ -142,25 +141,25 @@ git push origin feature-nueva
 Abre un pull request explicando los cambios realizados.
 
 # 🎨 Capturas de Pantalla:
-- Backend mostrando usuarios en DB PGagmind:
-![alt text](image.png)
-![alt text](Appfinalfrontend.png)
+- Backend mostrando usuarios en DB PGagmind url Backend:
 
-![BDPgadmin](https://github.com/user-attachments/assets/cf38a106-70fb-4eab-a79a-18b9e85efd7c)
+![alt text](image.png)
+
+ ![BDPgadmin](https://github.com/Mariayey12/microservicio-fullstack/blob/74d4bf39d9d80fab50d9e54214c7311e65f18f18/BDPgadmin.png)
 
 - Frontend mostrando usuarios:
   
-![Appfinalfrontend](https://github.com/user-attachments/assets/1eeaa7bc-bef4-466e-bd10-487cbed07283)
+![Appfinalfrontend](https://github.com/Mariayey12/microservicio-fullstack/blob/74d4bf39d9d80fab50d9e54214c7311e65f18f18/Appfinalfrontend.png)
 
 - Pruebas con Postman y ThunderCliente:
-![PruebadeApiconpostman](https://github.com/user-attachments/assets/fae87b0a-f6f1-4765-9f2f-5bef23da8458)
+![PruebadeApiconpostman](https://github.com/Mariayey12/microservicio-fullstack/blob/74d4bf39d9d80fab50d9e54214c7311e65f18f18/PruebadeApiconpostman.png)
 
-![PruebasdeApi](https://github.com/user-attachments/assets/3f48695e-9f68-4079-9ea6-79e5c620c794)
+![PruebasdeApi](https://github.com/Mariayey12/microservicio-fullstack/blob/74d4bf39d9d80fab50d9e54214c7311e65f18f18/PruebasdeApi.png)
 
 - Pruebas en jasmine:
-![pruebasu 2024-12-06 124951](https://github.com/user-attachments/assets/029831c2-1f6e-43a8-b81b-592e05c908aa)
+![pruebasu 2024-12-06 124951](https://github.com/Mariayey12/microservicio-fullstack/blob/74d4bf39d9d80fab50d9e54214c7311e65f18f18/pruebasu%202024-12-06%20124951.png)
 
-![PruebasUsuarios2024-12-06 124349](https://github.com/user-attachments/assets/57bacc38-3d28-4952-9db2-8202f85515c1)
+![PruebasUsuarios2024-12-06 124349](https://github.com/Mariayey12/microservicio-fullstack/blob/74d4bf39d9d80fab50d9e54214c7311e65f18f18/PruebasUsuarios2024-12-06%20124349.png)
 
 # Licencia 📜
 
