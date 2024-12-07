@@ -78,6 +78,7 @@
 # Instala las dependencias:
 
 - npm install
+-npm install cors, pg, dotenv 
 - Configura el archivo environment.ts con la URL de tu backend:
 - ts
   export const environment = {
@@ -141,7 +142,7 @@ Abre un pull request explicando los cambios realizados.
 
 # 🎨 Capturas de Pantalla:
 - Backend mostrando usuarios en DB PGagmind:
-
+![alt text](image.png)
 ![alt text](Appfinalfrontend.png)
 
 ![BDPgadmin](https://github.com/user-attachments/assets/cf38a106-70fb-4eab-a79a-18b9e85efd7c)
